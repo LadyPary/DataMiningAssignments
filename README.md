@@ -2,7 +2,7 @@
 
 # <center> 📊 Data Mining Assignments (Classification, Clustering, MLP) </center>
 
-![Data mining demo](pic.png)
+![Data mining demo](Pic.png)
 
 ## Table of Contents
  * [About the Assignments](#about-the-assignments)
